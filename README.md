@@ -56,3 +56,7 @@ Um ansprechende Layouts mit Jetpack Compose zu erstellen, sollten Sie folgende G
 5. Animationen und visuelle Effekte: Jetpack Compose bietet native Unterstützung für Animationen und visuelle Effekte. Sie sollten lernen, wie man diese Funktionen verwendet, um ansprechende und interaktive Benutzeroberflächen zu erstellen.
 
 Zusammenfassend sollten Sie über grundlegende Kenntnisse in Kotlin verfügen, die Funktionsweise von Composable-Funktionen, Layout-Komponenten, Material Design-Prinzipien sowie Animationen und visuelle Effekte verstehen, um ansprechende Layouts mit Jetpack Compose zu erstellen.
+
+# Bausteine
+
+Hannis App https://github.com/SoftdeveloperNeumann/HannisApp
