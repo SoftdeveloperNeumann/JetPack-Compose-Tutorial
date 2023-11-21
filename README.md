@@ -1,5 +1,7 @@
 # JetPack-Compose-Tutorial
-Jetpack Compose lernen um moderne Android Apps zu entwickeln
+Jetpack Compose lernen um moderne Android Apps zu entwickeln.
+
+Die Repositories zu den einzelnen Bausteinen sind am Ende dieser Datei, welche kontinuierlich erweitert wird.
 
 # Jetpack Compose
 
@@ -59,4 +61,4 @@ Zusammenfassend sollten Sie über grundlegende Kenntnisse in Kotlin verfügen, d
 
 # Bausteine
 
-Hannis App https://github.com/SoftdeveloperNeumann/HannisApp
+Einleitung in Jetpack Compose mit Android Studio. https://github.com/SoftdeveloperNeumann/HannisApp
