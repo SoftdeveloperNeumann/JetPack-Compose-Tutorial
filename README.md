@@ -61,4 +61,4 @@ Zusammenfassend sollten Sie über grundlegende Kenntnisse in Kotlin verfügen, d
 
 # Bausteine
 
-Einleitung in Jetpack Compose mit Android Studio. [https://github.com/SoftdeveloperNeumann/HannisApp](https://github.com/SoftdeveloperNeumann/Compose-Einleitung)https://github.com/SoftdeveloperNeumann/Compose-Einleitung
+[Einleitung in Jetpack Compose mit Android Studio.] (https://github.com/SoftdeveloperNeumann/Compose-Einleitung)
